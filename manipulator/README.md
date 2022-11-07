@@ -1,6 +1,5 @@
 # Green Manipulator Project
 
-## WARNING: This repo is a work in progress and not ready for a full project yet
 
 ![Image of manipulator](images/s-l1600.jpg)
 
