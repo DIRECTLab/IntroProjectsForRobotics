@@ -1,0 +1,3 @@
+# Final Phase
+
+For this phase, you should take your code from the previous 2 phases, and we will combine them into 1. The goal for this phase will be to use the camera on the robot to find and localize an object, then moving to it and picking it up. The object should be able to be put anywhere in reach of the arm, and it should still work the same. This may take more algorithms/methods than the ones in the previous sections, so take notes of what you need to do so we can improve this project in the future as well.
